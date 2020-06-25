@@ -5,4 +5,4 @@ this is 2nd edit. This is the final edited sentence
 
 this is 3rd line added in local machine. added line
 
-this is 3rd line added by remote user.
+this is 3rd line added by remote user.added line
